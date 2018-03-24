@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="fxfxfxfx.jnlp">
+  <information>
+    <title>fxfxfxfx</title>
+    <vendor>ndb796</vendor>
+    <description>MJU_KimMinCho_Calculator</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="fxfxfxfx.jar" size="10011" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="controller.Main"  name="MJU_KimMinCho_Calculator" />
+  <update check="background"/>
+</jnlp>
